@@ -5,22 +5,6 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import EventNoteTwoToneIcon from '@mui/icons-material/EventNoteTwoTone';
 
-// const DivContainer = styled.div`
-//     height: 10%;
-//     width: 100%;
-//     display: flex;
-//     background-color: blue;
-// `;
-
-// const HomeButton = styled(Button)`
-//   && {
-//     color: white;
-//     height: 10%;
-//     width: 10%;
-//     display: flex;
-//     background-color: green;
-//   }
-// `;
 const MyAppBar = styled(AppBar)`
     && {
         position: static;
